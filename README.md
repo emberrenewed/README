@@ -47,6 +47,8 @@ Right now I am especially interested in:
 | [`dockerreference`](https://github.com/emberrenewed/dockerreference) | Docker reference project for learning and practical lookup |
 | [`passkey-api-laravel`](https://github.com/emberrenewed/passkey-api-laravel) | Laravel API work exploring modern authentication patterns |
 
+For the broader map of my public work, see [`PORTFOLIO.md`](PORTFOLIO.md).
+
 ## Toolbelt
 
 <p align="center">
